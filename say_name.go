@@ -1,5 +1,5 @@
 package app_module
 
 func SayName(name string) string {
-	return "Hello " + name
+	return "Hello nama kamu adalah " + name
 }
